@@ -1,0 +1,8 @@
+Nenad,Radanov,ara@adas.asd,1998,raki,rakisonn,3100.0
+Aleksa,Knezevic,alkn@lasd.asdl,1998,knezaleksa,komsa123,3000.0
+Dalibor,Aksovic,adksd@Dsadlad.ldas,1998,axajr,axamaster,2804.0
+Aaa,Aaa,asd@sad.asd,2006,aaa,12345678,294.0
+Milanko,Despot,adsad@asd.asd,2005,despot,despot123,0.0
+Jecapereca,Kul,jeca@pereca.com,1995,hipnotisanopile,jecapereca,964.0
+Jedan,Dva,jedan@dva.tri,2005,jedandva,jedandvatri,400.0
+Aa,Aa,a@a.a,1980,AAaaA,AAAaaaAAAaaa,0.0

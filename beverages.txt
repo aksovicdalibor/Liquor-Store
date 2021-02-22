@@ -1,0 +1,6 @@
+Banjalucka pivara - Nektar,2.0,1.5,229,beer
+Vinarija Duca - Sampanjac,0.7,11.0,41,champagne
+Coca Cola - Original,0.5,1.0,63,soda
+Ramos - Tequilla,1.0,20.0,23,spirit drink
+Jana - obicna,1.5,1.0,24,water
+Zupa - Zdrebceva krv,1.0,4.0,137,wine
